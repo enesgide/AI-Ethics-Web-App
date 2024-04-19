@@ -1,0 +1,1485 @@
+[{
+    "principle": "null",
+    "principlecontent": [{
+        "segment": "ulgihu",
+        "segmentcontent": [{
+            "question": "kgygkuy",
+            "questioncontent": [],
+            "questionid": 242
+        }, {
+            "question": "ffweea",
+            "questioncontent": [],
+            "questionid": 243
+        }],
+        "segmentid": 86
+    }],
+    "principleid": 21
+}, {
+    "principle": "fwaefaw",
+    "principlecontent": [{
+        "segment": "uutoi",
+        "segmentcontent": [],
+        "segmentid": 85
+    }],
+    "principleid": 22
+}, {
+    "principle": "Accountability",
+    "principlecontent": [{
+        "segment": "Segment-Accountability4",
+        "segmentcontent": [{
+            "question": "Quetion-Segment-Accountability40",
+            "questioncontent": [{
+                "questiontype": 7,
+                "subquesid": 1111,
+                "subquestion": "subquestion test0Quetion-Segment-Accountability40"
+            }, {
+                "questiontype": 8,
+                "subquesid": 1112,
+                "subquestion": "subquestion test1Quetion-Segment-Accountability40"
+            }, {
+                "questiontype": 7,
+                "subquesid": 1113,
+                "subquestion": "subquestion test2Quetion-Segment-Accountability40"
+            }, {
+                "questiontype": 8,
+                "subquesid": 1114,
+                "subquestion": "subquestion test3Quetion-Segment-Accountability40"
+            }, {
+                "questiontype": 7,
+                "subquesid": 1115,
+                "subquestion": "subquestion test4Quetion-Segment-Accountability40"
+            }],
+            "questionid": 223
+        }, {
+            "question": "Quetion-Segment-Accountability41",
+            "questioncontent": [{
+                "questiontype": 7,
+                "subquesid": 1116,
+                "subquestion": "subquestion test0Quetion-Segment-Accountability41"
+            }, {
+                "questiontype": 8,
+                "subquesid": 1117,
+                "subquestion": "subquestion test1Quetion-Segment-Accountability41"
+            }, {
+                "questiontype": 7,
+                "subquesid": 1118,
+                "subquestion": "subquestion test2Quetion-Segment-Accountability41"
+            }, {
+                "questiontype": 8,
+                "subquesid": 1119,
+                "subquestion": "subquestion test3Quetion-Segment-Accountability41"
+            }, {
+                "questiontype": 7,
+                "subquesid": 1120,
+                "subquestion": "subquestion test4Quetion-Segment-Accountability41"
+            }],
+            "questionid": 224
+        }, {
+            "question": "Quetion-Segment-Accountability42",
+            "questioncontent": [{
+                "questiontype": 7,
+                "subquesid": 1121,
+                "subquestion": "subquestion test0Quetion-Segment-Accountability42"
+            }, {
+                "questiontype": 8,
+                "subquesid": 1122,
+                "subquestion": "subquestion test1Quetion-Segment-Accountability42"
+            }, {
+                "questiontype": 7,
+                "subquesid": 1123,
+                "subquestion": "subquestion test2Quetion-Segment-Accountability42"
+            }, {
+                "questiontype": 8,
+                "subquesid": 1124,
+                "subquestion": "subquestion test3Quetion-Segment-Accountability42"
+            }, {
+                "questiontype": 7,
+                "subquesid": 1125,
+                "subquestion": "subquestion test4Quetion-Segment-Accountability42"
+            }],
+            "questionid": 225
+        }],
+        "segmentid": 75
+    }, {
+        "segment": "Segment-Accountability2",
+        "segmentcontent": [{
+            "question": "Quetion-Segment-Accountability20",
+            "questioncontent": [{
+                "questiontype": 7,
+                "subquesid": 1081,
+                "subquestion": "subquestion test0Quetion-Segment-Accountability20"
+            }, {
+                "questiontype": 8,
+                "subquesid": 1082,
+                "subquestion": "subquestion test1Quetion-Segment-Accountability20"
+            }, {
+                "questiontype": 7,
+                "subquesid": 1083,
+                "subquestion": "subquestion test2Quetion-Segment-Accountability20"
+            }, {
+                "questiontype": 8,
+                "subquesid": 1084,
+                "subquestion": "subquestion test3Quetion-Segment-Accountability20"
+            }, {
+                "questiontype": 7,
+                "subquesid": 1085,
+                "subquestion": "subquestion test4Quetion-Segment-Accountability20"
+            }],
+            "questionid": 217
+        }, {
+            "question": "Quetion-Segment-Accountability21",
+            "questioncontent": [{
+                "questiontype": 8,
+                "subquesid": 1089,
+                "subquestion": "subquestion test3Quetion-Segment-Accountability21"
+            }, {
+                "questiontype": 7,
+                "subquesid": 1090,
+                "subquestion": "subquestion test4Quetion-Segment-Accountability21"
+            }, {
+                "questiontype": 7,
+                "subquesid": 1086,
+                "subquestion": "subquestion test0Quetion-Segment-Accountability21"
+            }, {
+                "questiontype": 8,
+                "subquesid": 1087,
+                "subquestion": "subquestion test1Quetion-Segment-Accountability21"
+            }],
+            "questionid": 218
+        }, {
+            "question": "Quetion-Segment-Accountability22",
+            "questioncontent": [{
+                "questiontype": 7,
+                "subquesid": 1091,
+                "subquestion": "subquestion test0Quetion-Segment-Accountability22"
+            }, {
+                "questiontype": 8,
+                "subquesid": 1092,
+                "subquestion": "subquestion test1Quetion-Segment-Accountability22"
+            }, {
+                "questiontype": 7,
+                "subquesid": 1093,
+                "subquestion": "subquestion test2Quetion-Segment-Accountability22"
+            }, {
+                "questiontype": 8,
+                "subquesid": 1094,
+                "subquestion": "subquestion test3Quetion-Segment-Accountability22"
+            }, {
+                "questiontype": 7,
+                "subquesid": 1095,
+                "subquestion": "subquestion test4Quetion-Segment-Accountability22"
+            }],
+            "questionid": 219
+        }],
+        "segmentid": 73
+    }, {
+        "segment": "Segment-Accountability3",
+        "segmentcontent": [{
+            "question": "Quetion-Segment-Accountability32",
+            "questioncontent": [{
+                "questiontype": 7,
+                "subquesid": 1106,
+                "subquestion": "subquestion test0Quetion-Segment-Accountability32"
+            }, {
+                "questiontype": 8,
+                "subquesid": 1107,
+                "subquestion": "subquestion test1Quetion-Segment-Accountability32"
+            }, {
+                "questiontype": 7,
+                "subquesid": 1108,
+                "subquestion": "subquestion test2Quetion-Segment-Accountability32"
+            }, {
+                "questiontype": 8,
+                "subquesid": 1109,
+                "subquestion": "subquestion test3Quetion-Segment-Accountability32"
+            }, {
+                "questiontype": 7,
+                "subquesid": 1110,
+                "subquestion": "subquestion test4Quetion-Segment-Accountability32"
+            }],
+            "questionid": 222
+        }, {
+            "question": "Quetion-Segment-Accountability30",
+            "questioncontent": [{
+                "questiontype": 8,
+                "subquesid": 1097,
+                "subquestion": "subquestion test1Quetion-Segment-Accountability30"
+            }, {
+                "questiontype": 7,
+                "subquesid": 1098,
+                "subquestion": "subquestion test2Quetion-Segment-Accountability30"
+            }, {
+                "questiontype": 8,
+                "subquesid": 1099,
+                "subquestion": "subquestion test3Quetion-Segment-Accountability30"
+            }, {
+                "questiontype": 7,
+                "subquesid": 1100,
+                "subquestion": "subquestion test4Quetion-Segment-Accountability30"
+            }, {
+                "questiontype": 7,
+                "subquesid": 1096,
+                "subquestion": "subquestion test0Quetion-Segment-Accountability30"
+            }],
+            "questionid": 220
+        }, {
+            "question": "Quetion-Segment-Accountability31",
+            "questioncontent": [{
+                "questiontype": 7,
+                "subquesid": 1101,
+                "subquestion": "subquestion test0Quetion-Segment-Accountability31"
+            }, {
+                "questiontype": 8,
+                "subquesid": 1102,
+                "subquestion": "subquestion test1Quetion-Segment-Accountability31"
+            }, {
+                "questiontype": 7,
+                "subquesid": 1103,
+                "subquestion": "subquestion test2Quetion-Segment-Accountability31"
+            }, {
+                "questiontype": 8,
+                "subquesid": 1104,
+                "subquestion": "subquestion test3Quetion-Segment-Accountability31"
+            }],
+            "questionid": 221
+        }],
+        "segmentid": 74
+    }, {
+        "segment": "Segment-Accountability1",
+        "segmentcontent": [{
+            "question": "Quetion-Segment-Accountability12",
+            "questioncontent": [{
+                "questiontype": 7,
+                "subquesid": 1076,
+                "subquestion": "subquestion test0Quetion-Segment-Accountability12"
+            }, {
+                "questiontype": 7,
+                "subquesid": 1078,
+                "subquestion": "subquestion test2Quetion-Segment-Accountability12"
+            }, {
+                "questiontype": 8,
+                "subquesid": 1079,
+                "subquestion": "subquestion test3Quetion-Segment-Accountability12"
+            }, {
+                "questiontype": 7,
+                "subquesid": 1080,
+                "subquestion": "subquestion test4Quetion-Segment-Accountability12"
+            }],
+            "questionid": 216
+        }, {
+            "question": "Quetion-Segment-Accountability10",
+            "questioncontent": [{
+                "questiontype": 8,
+                "subquesid": 1069,
+                "subquestion": "subquestion test3Quetion-Segment-Accountability10"
+            }, {
+                "questiontype": 7,
+                "subquesid": 1070,
+                "subquestion": "subquestion test4Quetion-Segment-Accountability10"
+            }, {
+                "questiontype": 7,
+                "subquesid": 1066,
+                "subquestion": "subquestion test0Quetion-Segment-Accountability10"
+            }, {
+                "questiontype": 8,
+                "subquesid": 1067,
+                "subquestion": "subquestion test1Quetion-Segment-Accountability10"
+            }, {
+                "questiontype": 7,
+                "subquesid": 1068,
+                "subquestion": "subquestion test2Quetion-Segment-Accountability10"
+            }],
+            "questionid": 214
+        }, {
+            "question": "Quetion-Segment-Accountability11",
+            "questioncontent": [{
+                "questiontype": 7,
+                "subquesid": 1071,
+                "subquestion": "subquestion test0Quetion-Segment-Accountability11"
+            }, {
+                "questiontype": 8,
+                "subquesid": 1072,
+                "subquestion": "subquestion test1Quetion-Segment-Accountability11"
+            }, {
+                "questiontype": 7,
+                "subquesid": 1073,
+                "subquestion": "subquestion test2Quetion-Segment-Accountability11"
+            }, {
+                "questiontype": 8,
+                "subquesid": 1074,
+                "subquestion": "subquestion test3Quetion-Segment-Accountability11"
+            }, {
+                "questiontype": 7,
+                "subquesid": 1075,
+                "subquestion": "subquestion test4Quetion-Segment-Accountability11"
+            }],
+            "questionid": 215
+        }],
+        "segmentid": 72
+    }, {
+        "segment": "Segment-Accountability0",
+        "segmentcontent": [{
+            "question": "Quetion-Segment-Accountability01",
+            "questioncontent": [{
+                "questiontype": 7,
+                "subquesid": 1060,
+                "subquestion": "subquestion test4Quetion-Segment-Accountability01"
+            }, {
+                "questiontype": 7,
+                "subquesid": 1056,
+                "subquestion": "subquestion test0Quetion-Segment-Accountability01"
+            }, {
+                "questiontype": 8,
+                "subquesid": 1057,
+                "subquestion": "subquestion test1Quetion-Segment-Accountability01"
+            }, {
+                "questiontype": 7,
+                "subquesid": 1058,
+                "subquestion": "subquestion test2Quetion-Segment-Accountability01"
+            }],
+            "questionid": 212
+        }, {
+            "question": "Quetion-Segment-Accountability02",
+            "questioncontent": [{
+                "questiontype": 7,
+                "subquesid": 1061,
+                "subquestion": "subquestion test0Quetion-Segment-Accountability02"
+            }, {
+                "questiontype": 8,
+                "subquesid": 1062,
+                "subquestion": "subquestion test1Quetion-Segment-Accountability02"
+            }, {
+                "questiontype": 7,
+                "subquesid": 1063,
+                "subquestion": "subquestion test2Quetion-Segment-Accountability02"
+            }, {
+                "questiontype": 8,
+                "subquesid": 1064,
+                "subquestion": "subquestion test3Quetion-Segment-Accountability02"
+            }, {
+                "questiontype": 7,
+                "subquesid": 1065,
+                "subquestion": "subquestion test4Quetion-Segment-Accountability02"
+            }],
+            "questionid": 213
+        }, {
+            "question": "Quetion-Segment-Accountability00",
+            "questioncontent": [{
+                "questiontype": 7,
+                "subquesid": 1051,
+                "subquestion": "subquestion test0Quetion-Segment-Accountability00"
+            }, {
+                "questiontype": 8,
+                "subquesid": 1052,
+                "subquestion": "subquestion test1Quetion-Segment-Accountability00"
+            }, {
+                "questiontype": 7,
+                "subquesid": 1053,
+                "subquestion": "subquestion test2Quetion-Segment-Accountability00"
+            }, {
+                "questiontype": 8,
+                "subquesid": 1054,
+                "subquestion": "subquestion test3Quetion-Segment-Accountability00"
+            }, {
+                "questiontype": 7,
+                "subquesid": 1055,
+                "subquestion": "subquestion test4Quetion-Segment-Accountability00"
+            }],
+            "questionid": 211
+        }],
+        "segmentid": 71
+    }],
+    "principleid": 19
+}, {
+    "principle": "Transparency",
+    "principlecontent": [{
+        "segment": "Segment-Transparency2",
+        "segmentcontent": [{
+            "question": "fwaefw",
+            "questioncontent": [],
+            "questionid": 241
+        }, {
+            "question": "Quetion-Segment-Transparency21",
+            "questioncontent": [{
+                "questiontype": 8,
+                "subquesid": 939,
+                "subquestion": "subquestion test3Quetion-Segment-Transparency21"
+            }, {
+                "questiontype": 8,
+                "subquesid": 937,
+                "subquestion": "subquestion test1Quetion-Segment-Transparency21"
+            }],
+            "questionid": 188
+        }, {
+            "question": "Quetion-Segment-Transparency22",
+            "questioncontent": [{
+                "questiontype": 7,
+                "subquesid": 941,
+                "subquestion": "subquestion test0Quetion-Segment-Transparency22"
+            }, {
+                "questiontype": 8,
+                "subquesid": 942,
+                "subquestion": "subquestion test1Quetion-Segment-Transparency22"
+            }, {
+                "questiontype": 7,
+                "subquesid": 943,
+                "subquestion": "subquestion test2Quetion-Segment-Transparency22"
+            }, {
+                "questiontype": 8,
+                "subquesid": 944,
+                "subquestion": "subquestion test3Quetion-Segment-Transparency22"
+            }, {
+                "questiontype": 7,
+                "subquesid": 945,
+                "subquestion": "subquestion test4Quetion-Segment-Transparency22"
+            }],
+            "questionid": 189
+        }, {
+            "question": "Quetion-Segment-Transparency20",
+            "questioncontent": [{
+                "questiontype": 7,
+                "subquesid": 931,
+                "subquestion": "subquestion test0Quetion-Segment-Transparency20"
+            }, {
+                "questiontype": 8,
+                "subquesid": 932,
+                "subquestion": "subquestion test1Quetion-Segment-Transparency20"
+            }, {
+                "questiontype": 7,
+                "subquesid": 933,
+                "subquestion": "subquestion test2Quetion-Segment-Transparency20"
+            }, {
+                "questiontype": 8,
+                "subquesid": 934,
+                "subquestion": "subquestion test3Quetion-Segment-Transparency20"
+            }, {
+                "questiontype": 7,
+                "subquesid": 935,
+                "subquestion": "subquestion test4Quetion-Segment-Transparency20"
+            }],
+            "questionid": 187
+        }],
+        "segmentid": 63
+    }, {
+        "segment": "Segment-Transparency4",
+        "segmentcontent": [{
+            "question": "Quetion-Segment-Transparency41",
+            "questioncontent": [{
+                "questiontype": 8,
+                "subquesid": 967,
+                "subquestion": "subquestion test1Quetion-Segment-Transparency41"
+            }, {
+                "questiontype": 7,
+                "subquesid": 968,
+                "subquestion": "subquestion test2Quetion-Segment-Transparency41"
+            }, {
+                "questiontype": 8,
+                "subquesid": 969,
+                "subquestion": "subquestion test3Quetion-Segment-Transparency41"
+            }, {
+                "questiontype": 7,
+                "subquesid": 970,
+                "subquestion": "subquestion test4Quetion-Segment-Transparency41"
+            }, {
+                "questiontype": 7,
+                "subquesid": 966,
+                "subquestion": "subquestion test0Quetion-Segment-Transparency41"
+            }],
+            "questionid": 194
+        }, {
+            "question": "Quetion-Segment-Transparency42",
+            "questioncontent": [{
+                "questiontype": 7,
+                "subquesid": 971,
+                "subquestion": "subquestion test0Quetion-Segment-Transparency42"
+            }, {
+                "questiontype": 8,
+                "subquesid": 972,
+                "subquestion": "subquestion test1Quetion-Segment-Transparency42"
+            }, {
+                "questiontype": 7,
+                "subquesid": 973,
+                "subquestion": "subquestion test2Quetion-Segment-Transparency42"
+            }, {
+                "questiontype": 8,
+                "subquesid": 974,
+                "subquestion": "subquestion test3Quetion-Segment-Transparency42"
+            }],
+            "questionid": 195
+        }, {
+            "question": "Quetion-Segment-Transparency40",
+            "questioncontent": [{
+                "questiontype": 7,
+                "subquesid": 961,
+                "subquestion": "subquestion test0Quetion-Segment-Transparency40"
+            }, {
+                "questiontype": 8,
+                "subquesid": 962,
+                "subquestion": "subquestion test1Quetion-Segment-Transparency40"
+            }, {
+                "questiontype": 7,
+                "subquesid": 963,
+                "subquestion": "subquestion test2Quetion-Segment-Transparency40"
+            }, {
+                "questiontype": 8,
+                "subquesid": 964,
+                "subquestion": "subquestion test3Quetion-Segment-Transparency40"
+            }, {
+                "questiontype": 7,
+                "subquesid": 965,
+                "subquestion": "subquestion test4Quetion-Segment-Transparency40"
+            }],
+            "questionid": 193
+        }],
+        "segmentid": 65
+    }, {
+        "segment": "Segment-Transparency3",
+        "segmentcontent": [{
+            "question": "Quetion-Segment-Transparency30",
+            "questioncontent": [{
+                "questiontype": 7,
+                "subquesid": 948,
+                "subquestion": "subquestion test2Quetion-Segment-Transparency30"
+            }, {
+                "questiontype": 8,
+                "subquesid": 949,
+                "subquestion": "subquestion test3Quetion-Segment-Transparency30"
+            }, {
+                "questiontype": 7,
+                "subquesid": 950,
+                "subquestion": "subquestion test4Quetion-Segment-Transparency30"
+            }, {
+                "questiontype": 7,
+                "subquesid": 946,
+                "subquestion": "subquestion test0Quetion-Segment-Transparency30"
+            }, {
+                "questiontype": 8,
+                "subquesid": 947,
+                "subquestion": "subquestion test1Quetion-Segment-Transparency30"
+            }],
+            "questionid": 190
+        }, {
+            "question": "Quetion-Segment-Transparency31",
+            "questioncontent": [{
+                "questiontype": 7,
+                "subquesid": 951,
+                "subquestion": "subquestion test0Quetion-Segment-Transparency31"
+            }, {
+                "questiontype": 8,
+                "subquesid": 952,
+                "subquestion": "subquestion test1Quetion-Segment-Transparency31"
+            }, {
+                "questiontype": 7,
+                "subquesid": 953,
+                "subquestion": "subquestion test2Quetion-Segment-Transparency31"
+            }, {
+                "questiontype": 7,
+                "subquesid": 955,
+                "subquestion": "subquestion test4Quetion-Segment-Transparency31"
+            }],
+            "questionid": 191
+        }, {
+            "question": "Quetion-Segment-Transparency32",
+            "questioncontent": [{
+                "questiontype": 7,
+                "subquesid": 956,
+                "subquestion": "subquestion test0Quetion-Segment-Transparency32"
+            }, {
+                "questiontype": 8,
+                "subquesid": 957,
+                "subquestion": "subquestion test1Quetion-Segment-Transparency32"
+            }, {
+                "questiontype": 7,
+                "subquesid": 958,
+                "subquestion": "subquestion test2Quetion-Segment-Transparency32"
+            }, {
+                "questiontype": 8,
+                "subquesid": 959,
+                "subquestion": "subquestion test3Quetion-Segment-Transparency32"
+            }, {
+                "questiontype": 7,
+                "subquesid": 960,
+                "subquestion": "subquestion test4Quetion-Segment-Transparency32"
+            }],
+            "questionid": 192
+        }],
+        "segmentid": 64
+    }, {
+        "segment": "Segment-Transparency1",
+        "segmentcontent": [{
+            "question": "Quetion-Segment-Transparency10",
+            "questioncontent": [{
+                "questiontype": 7,
+                "subquesid": 920,
+                "subquestion": "subquestion test4Quetion-Segment-Transparency10"
+            }, {
+                "questiontype": 7,
+                "subquesid": 916,
+                "subquestion": "subquestion test0Quetion-Segment-Transparency10"
+            }, {
+                "questiontype": 8,
+                "subquesid": 917,
+                "subquestion": "subquestion test1Quetion-Segment-Transparency10"
+            }, {
+                "questiontype": 7,
+                "subquesid": 918,
+                "subquestion": "subquestion test2Quetion-Segment-Transparency10"
+            }, {
+                "questiontype": 8,
+                "subquesid": 919,
+                "subquestion": "subquestion test3Quetion-Segment-Transparency10"
+            }],
+            "questionid": 184
+        }, {
+            "question": "Quetion-Segment-Transparency11",
+            "questioncontent": [{
+                "questiontype": 7,
+                "subquesid": 921,
+                "subquestion": "subquestion test0Quetion-Segment-Transparency11"
+            }, {
+                "questiontype": 8,
+                "subquesid": 922,
+                "subquestion": "subquestion test1Quetion-Segment-Transparency11"
+            }, {
+                "questiontype": 7,
+                "subquesid": 923,
+                "subquestion": "subquestion test2Quetion-Segment-Transparency11"
+            }, {
+                "questiontype": 8,
+                "subquesid": 924,
+                "subquestion": "subquestion test3Quetion-Segment-Transparency11"
+            }, {
+                "questiontype": 7,
+                "subquesid": 925,
+                "subquestion": "subquestion test4Quetion-Segment-Transparency11"
+            }],
+            "questionid": 185
+        }, {
+            "question": "Quetion-Segment-Transparency12",
+            "questioncontent": [{
+                "questiontype": 7,
+                "subquesid": 926,
+                "subquestion": "subquestion test0Quetion-Segment-Transparency12"
+            }, {
+                "questiontype": 8,
+                "subquesid": 927,
+                "subquestion": "subquestion test1Quetion-Segment-Transparency12"
+            }, {
+                "questiontype": 7,
+                "subquesid": 928,
+                "subquestion": "subquestion test2Quetion-Segment-Transparency12"
+            }, {
+                "questiontype": 8,
+                "subquesid": 929,
+                "subquestion": "subquestion test3Quetion-Segment-Transparency12"
+            }, {
+                "questiontype": 7,
+                "subquesid": 930,
+                "subquestion": "subquestion test4Quetion-Segment-Transparency12"
+            }],
+            "questionid": 186
+        }],
+        "segmentid": 62
+    }, {
+        "segment": "Segment-Transparency0",
+        "segmentcontent": [{
+            "question": "Quetion-Segment-Transparency01",
+            "questioncontent": [{
+                "questiontype": 7,
+                "subquesid": 906,
+                "subquestion": "subquestion test0Quetion-Segment-Transparency01"
+            }, {
+                "questiontype": 8,
+                "subquesid": 907,
+                "subquestion": "subquestion test1Quetion-Segment-Transparency01"
+            }, {
+                "questiontype": 7,
+                "subquesid": 908,
+                "subquestion": "subquestion test2Quetion-Segment-Transparency01"
+            }, {
+                "questiontype": 8,
+                "subquesid": 909,
+                "subquestion": "subquestion test3Quetion-Segment-Transparency01"
+            }],
+            "questionid": 182
+        }, {
+            "question": "Quetion-Segment-Transparency02",
+            "questioncontent": [{
+                "questiontype": 7,
+                "subquesid": 911,
+                "subquestion": "subquestion test0Quetion-Segment-Transparency02"
+            }, {
+                "questiontype": 8,
+                "subquesid": 912,
+                "subquestion": "subquestion test1Quetion-Segment-Transparency02"
+            }, {
+                "questiontype": 7,
+                "subquesid": 913,
+                "subquestion": "subquestion test2Quetion-Segment-Transparency02"
+            }, {
+                "questiontype": 8,
+                "subquesid": 914,
+                "subquestion": "subquestion test3Quetion-Segment-Transparency02"
+            }, {
+                "questiontype": 7,
+                "subquesid": 915,
+                "subquestion": "subquestion test4Quetion-Segment-Transparency02"
+            }],
+            "questionid": 183
+        }, {
+            "question": "Quetion-Segment-Transparency00",
+            "questioncontent": [{
+                "questiontype": 7,
+                "subquesid": 901,
+                "subquestion": "subquestion test0Quetion-Segment-Transparency00"
+            }, {
+                "questiontype": 8,
+                "subquesid": 902,
+                "subquestion": "subquestion test1Quetion-Segment-Transparency00"
+            }, {
+                "questiontype": 7,
+                "subquesid": 903,
+                "subquestion": "subquestion test2Quetion-Segment-Transparency00"
+            }, {
+                "questiontype": 8,
+                "subquesid": 904,
+                "subquestion": "subquestion test3Quetion-Segment-Transparency00"
+            }],
+            "questionid": 181
+        }],
+        "segmentid": 61
+    }],
+    "principleid": 17
+}, {
+    "principle": "Privacy",
+    "principlecontent": [{
+        "segment": "Segment-Privacy1",
+        "segmentcontent": [{
+            "question": "Quetion-Segment-Privacy11",
+            "questioncontent": [{
+                "questiontype": 8,
+                "subquesid": 1147,
+                "subquestion": "subquestion test1Quetion-Segment-Privacy11"
+            }, {
+                "questiontype": 7,
+                "subquesid": 1148,
+                "subquestion": "subquestion test2Quetion-Segment-Privacy11"
+            }, {
+                "questiontype": 8,
+                "subquesid": 1149,
+                "subquestion": "subquestion test3Quetion-Segment-Privacy11"
+            }, {
+                "questiontype": 7,
+                "subquesid": 1150,
+                "subquestion": "subquestion test4Quetion-Segment-Privacy11"
+            }],
+            "questionid": 230
+        }, {
+            "question": "Quetion-Segment-Privacy12",
+            "questioncontent": [{
+                "questiontype": 7,
+                "subquesid": 1151,
+                "subquestion": "subquestion test0Quetion-Segment-Privacy12"
+            }, {
+                "questiontype": 8,
+                "subquesid": 1152,
+                "subquestion": "subquestion test1Quetion-Segment-Privacy12"
+            }, {
+                "questiontype": 7,
+                "subquesid": 1153,
+                "subquestion": "subquestion test2Quetion-Segment-Privacy12"
+            }, {
+                "questiontype": 8,
+                "subquesid": 1154,
+                "subquestion": "subquestion test3Quetion-Segment-Privacy12"
+            }, {
+                "questiontype": 7,
+                "subquesid": 1155,
+                "subquestion": "subquestion test4Quetion-Segment-Privacy12"
+            }],
+            "questionid": 231
+        }, {
+            "question": "Quetion-Segment-Privacy10",
+            "questioncontent": [{
+                "questiontype": 7,
+                "subquesid": 1143,
+                "subquestion": "subquestion test2Quetion-Segment-Privacy10"
+            }, {
+                "questiontype": 8,
+                "subquesid": 1144,
+                "subquestion": "subquestion test3Quetion-Segment-Privacy10"
+            }, {
+                "questiontype": 7,
+                "subquesid": 1145,
+                "subquestion": "subquestion test4Quetion-Segment-Privacy10"
+            }, {
+                "questiontype": 7,
+                "subquesid": 1141,
+                "subquestion": "subquestion test0Quetion-Segment-Privacy10"
+            }, {
+                "questiontype": 8,
+                "subquesid": 1142,
+                "subquestion": "subquestion test1Quetion-Segment-Privacy10"
+            }],
+            "questionid": 229
+        }],
+        "segmentid": 77
+    }, {
+        "segment": "Segment-Privacy0",
+        "segmentcontent": [{
+            "question": "Quetion-Segment-Privacy00",
+            "questioncontent": [{
+                "questiontype": 7,
+                "subquesid": 1126,
+                "subquestion": "subquestion test0Quetion-Segment-Privacy00"
+            }, {
+                "questiontype": 8,
+                "subquesid": 1127,
+                "subquestion": "subquestion test1Quetion-Segment-Privacy00"
+            }, {
+                "questiontype": 7,
+                "subquesid": 1128,
+                "subquestion": "subquestion test2Quetion-Segment-Privacy00"
+            }, {
+                "questiontype": 8,
+                "subquesid": 1129,
+                "subquestion": "subquestion test3Quetion-Segment-Privacy00"
+            }],
+            "questionid": 226
+        }, {
+            "question": "Quetion-Segment-Privacy01",
+            "questioncontent": [{
+                "questiontype": 8,
+                "subquesid": 1134,
+                "subquestion": "subquestion test3Quetion-Segment-Privacy01"
+            }, {
+                "questiontype": 7,
+                "subquesid": 1135,
+                "subquestion": "subquestion test4Quetion-Segment-Privacy01"
+            }, {
+                "questiontype": 7,
+                "subquesid": 1131,
+                "subquestion": "subquestion test0Quetion-Segment-Privacy01"
+            }, {
+                "questiontype": 8,
+                "subquesid": 1132,
+                "subquestion": "subquestion test1Quetion-Segment-Privacy01"
+            }, {
+                "questiontype": 7,
+                "subquesid": 1133,
+                "subquestion": "subquestion test2Quetion-Segment-Privacy01"
+            }],
+            "questionid": 227
+        }, {
+            "question": "Quetion-Segment-Privacy02",
+            "questioncontent": [{
+                "questiontype": 7,
+                "subquesid": 1202,
+                "subquestion": "fwaef"
+            }, {
+                "questiontype": 7,
+                "subquesid": 1136,
+                "subquestion": "subquestion test0Quetion-Segment-Privacy02"
+            }, {
+                "questiontype": 8,
+                "subquesid": 1137,
+                "subquestion": "subquestion test1Quetion-Segment-Privacy02"
+            }, {
+                "questiontype": 7,
+                "subquesid": 1138,
+                "subquestion": "subquestion test2Quetion-Segment-Privacy02"
+            }, {
+                "questiontype": 8,
+                "subquesid": 1139,
+                "subquestion": "subquestion test3Quetion-Segment-Privacy02"
+            }, {
+                "questiontype": 7,
+                "subquesid": 1140,
+                "subquestion": "subquestion test4Quetion-Segment-Privacy02"
+            }],
+            "questionid": 228
+        }],
+        "segmentid": 76
+    }, {
+        "segment": "fwaefw",
+        "segmentcontent": [],
+        "segmentid": 81
+    }, {
+        "segment": "Segment-Privacy3",
+        "segmentcontent": [{
+            "question": "Quetion-Segment-Privacy31",
+            "questioncontent": [{
+                "questiontype": 8,
+                "subquesid": 1177,
+                "subquestion": "subquestion test1Quetion-Segment-Privacy31"
+            }, {
+                "questiontype": 7,
+                "subquesid": 1178,
+                "subquestion": "subquestion test2Quetion-Segment-Privacy31"
+            }, {
+                "questiontype": 8,
+                "subquesid": 1179,
+                "subquestion": "subquestion test3Quetion-Segment-Privacy31"
+            }, {
+                "questiontype": 7,
+                "subquesid": 1180,
+                "subquestion": "subquestion test4Quetion-Segment-Privacy31"
+            }],
+            "questionid": 236
+        }, {
+            "question": "Quetion-Segment-Privacy32",
+            "questioncontent": [{
+                "questiontype": 7,
+                "subquesid": 1181,
+                "subquestion": "subquestion test0Quetion-Segment-Privacy32"
+            }, {
+                "questiontype": 8,
+                "subquesid": 1182,
+                "subquestion": "subquestion test1Quetion-Segment-Privacy32"
+            }, {
+                "questiontype": 7,
+                "subquesid": 1183,
+                "subquestion": "subquestion test2Quetion-Segment-Privacy32"
+            }, {
+                "questiontype": 8,
+                "subquesid": 1184,
+                "subquestion": "subquestion test3Quetion-Segment-Privacy32"
+            }, {
+                "questiontype": 7,
+                "subquesid": 1185,
+                "subquestion": "subquestion test4Quetion-Segment-Privacy32"
+            }],
+            "questionid": 237
+        }, {
+            "question": "Quetion-Segment-Privacy30",
+            "questioncontent": [{
+                "questiontype": 8,
+                "subquesid": 1174,
+                "subquestion": "subquestion test3Quetion-Segment-Privacy30"
+            }, {
+                "questiontype": 7,
+                "subquesid": 1175,
+                "subquestion": "subquestion test4Quetion-Segment-Privacy30"
+            }, {
+                "questiontype": 7,
+                "subquesid": 1171,
+                "subquestion": "subquestion test0Quetion-Segment-Privacy30"
+            }, {
+                "questiontype": 8,
+                "subquesid": 1172,
+                "subquestion": "subquestion test1Quetion-Segment-Privacy30"
+            }, {
+                "questiontype": 7,
+                "subquesid": 1173,
+                "subquestion": "subquestion test2Quetion-Segment-Privacy30"
+            }],
+            "questionid": 235
+        }],
+        "segmentid": 79
+    }, {
+        "segment": "Segment-Privacy4",
+        "segmentcontent": [{
+            "question": "Quetion-Segment-Privacy40",
+            "questioncontent": [{
+                "questiontype": 7,
+                "subquesid": 1186,
+                "subquestion": "subquestion test0Quetion-Segment-Privacy40"
+            }, {
+                "questiontype": 8,
+                "subquesid": 1187,
+                "subquestion": "subquestion test1Quetion-Segment-Privacy40"
+            }, {
+                "questiontype": 7,
+                "subquesid": 1188,
+                "subquestion": "subquestion test2Quetion-Segment-Privacy40"
+            }, {
+                "questiontype": 8,
+                "subquesid": 1189,
+                "subquestion": "subquestion test3Quetion-Segment-Privacy40"
+            }, {
+                "questiontype": 7,
+                "subquesid": 1190,
+                "subquestion": "subquestion test4Quetion-Segment-Privacy40"
+            }],
+            "questionid": 238
+        }, {
+            "question": "Quetion-Segment-Privacy41",
+            "questioncontent": [{
+                "questiontype": 7,
+                "subquesid": 1193,
+                "subquestion": "subquestion test2Quetion-Segment-Privacy41"
+            }, {
+                "questiontype": 8,
+                "subquesid": 1194,
+                "subquestion": "subquestion test3Quetion-Segment-Privacy41"
+            }, {
+                "questiontype": 7,
+                "subquesid": 1195,
+                "subquestion": "subquestion test4Quetion-Segment-Privacy41"
+            }, {
+                "questiontype": 7,
+                "subquesid": 1191,
+                "subquestion": "subquestion test0Quetion-Segment-Privacy41"
+            }, {
+                "questiontype": 8,
+                "subquesid": 1192,
+                "subquestion": "subquestion test1Quetion-Segment-Privacy41"
+            }],
+            "questionid": 239
+        }, {
+            "question": "Quetion-Segment-Privacy42",
+            "questioncontent": [{
+                "questiontype": 7,
+                "subquesid": 1196,
+                "subquestion": "subquestion test0Quetion-Segment-Privacy42"
+            }, {
+                "questiontype": 8,
+                "subquesid": 1197,
+                "subquestion": "subquestion test1Quetion-Segment-Privacy42"
+            }, {
+                "questiontype": 7,
+                "subquesid": 1198,
+                "subquestion": "subquestion test2Quetion-Segment-Privacy42"
+            }, {
+                "questiontype": 8,
+                "subquesid": 1199,
+                "subquestion": "subquestion test3Quetion-Segment-Privacy42"
+            }, {
+                "questiontype": 7,
+                "subquesid": 1200,
+                "subquestion": "subquestion test4Quetion-Segment-Privacy42"
+            }],
+            "questionid": 240
+        }],
+        "segmentid": 80
+    }, {
+        "segment": "Segment-Privacy2",
+        "segmentcontent": [{
+            "question": "Quetion-Segment-Privacy20",
+            "questioncontent": [{
+                "questiontype": 7,
+                "subquesid": 1156,
+                "subquestion": "subquestion test0Quetion-Segment-Privacy20"
+            }, {
+                "questiontype": 8,
+                "subquesid": 1157,
+                "subquestion": "subquestion test1Quetion-Segment-Privacy20"
+            }, {
+                "questiontype": 7,
+                "subquesid": 1158,
+                "subquestion": "subquestion test2Quetion-Segment-Privacy20"
+            }, {
+                "questiontype": 8,
+                "subquesid": 1159,
+                "subquestion": "subquestion test3Quetion-Segment-Privacy20"
+            }, {
+                "questiontype": 7,
+                "subquesid": 1160,
+                "subquestion": "subquestion test4Quetion-Segment-Privacy20"
+            }],
+            "questionid": 232
+        }, {
+            "question": "Quetion-Segment-Privacy21",
+            "questioncontent": [{
+                "questiontype": 8,
+                "subquesid": 1162,
+                "subquestion": "subquestion test1Quetion-Segment-Privacy21"
+            }, {
+                "questiontype": 7,
+                "subquesid": 1161,
+                "subquestion": "subquestion test0Quetion-Segment-Privacy21"
+            }],
+            "questionid": 233
+        }, {
+            "question": "Quetion-Segment-Privacy22",
+            "questioncontent": [{
+                "questiontype": 8,
+                "subquesid": 1167,
+                "subquestion": "subquestion test1Quetion-Segment-Privacy22"
+            }, {
+                "questiontype": 7,
+                "subquesid": 1168,
+                "subquestion": "subquestion test2Quetion-Segment-Privacy22"
+            }, {
+                "questiontype": 8,
+                "subquesid": 1169,
+                "subquestion": "subquestion test3Quetion-Segment-Privacy22"
+            }, {
+                "questiontype": 7,
+                "subquesid": 1170,
+                "subquestion": "subquestion test4Quetion-Segment-Privacy22"
+            }],
+            "questionid": 234
+        }],
+        "segmentid": 78
+    }],
+    "principleid": 20
+}, {
+    "principle": "Fairness",
+    "principlecontent": [{
+        "segment": "Segment-Fairness1",
+        "segmentcontent": [{
+            "question": "Quetion-Segment-Fairness11",
+            "questioncontent": [{
+                "questiontype": 8,
+                "subquesid": 997,
+                "subquestion": "subquestion test1Quetion-Segment-Fairness11"
+            }, {
+                "questiontype": 7,
+                "subquesid": 998,
+                "subquestion": "subquestion test2Quetion-Segment-Fairness11"
+            }, {
+                "questiontype": 8,
+                "subquesid": 999,
+                "subquestion": "subquestion test3Quetion-Segment-Fairness11"
+            }, {
+                "questiontype": 7,
+                "subquesid": 1000,
+                "subquestion": "subquestion test4Quetion-Segment-Fairness11"
+            }, {
+                "questiontype": 7,
+                "subquesid": 996,
+                "subquestion": "subquestion test0Quetion-Segment-Fairness11"
+            }],
+            "questionid": 200
+        }, {
+            "question": "Quetion-Segment-Fairness12",
+            "questioncontent": [{
+                "questiontype": 7,
+                "subquesid": 1001,
+                "subquestion": "subquestion test0Quetion-Segment-Fairness12"
+            }, {
+                "questiontype": 8,
+                "subquesid": 1002,
+                "subquestion": "subquestion test1Quetion-Segment-Fairness12"
+            }, {
+                "questiontype": 7,
+                "subquesid": 1003,
+                "subquestion": "subquestion test2Quetion-Segment-Fairness12"
+            }, {
+                "questiontype": 8,
+                "subquesid": 1004,
+                "subquestion": "subquestion test3Quetion-Segment-Fairness12"
+            }, {
+                "questiontype": 7,
+                "subquesid": 1005,
+                "subquestion": "subquestion test4Quetion-Segment-Fairness12"
+            }],
+            "questionid": 201
+        }, {
+            "question": "Quetion-Segment-Fairness10",
+            "questioncontent": [{
+                "questiontype": 8,
+                "subquesid": 992,
+                "subquestion": "subquestion test1Quetion-Segment-Fairness10"
+            }, {
+                "questiontype": 7,
+                "subquesid": 993,
+                "subquestion": "subquestion test2Quetion-Segment-Fairness10"
+            }],
+            "questionid": 199
+        }],
+        "segmentid": 67
+    }, {
+        "segment": "Segment-Fairness2",
+        "segmentcontent": [{
+            "question": "Quetion-Segment-Fairness20",
+            "questioncontent": [{
+                "questiontype": 7,
+                "subquesid": 1006,
+                "subquestion": "subquestion test0Quetion-Segment-Fairness20"
+            }, {
+                "questiontype": 8,
+                "subquesid": 1007,
+                "subquestion": "subquestion test1Quetion-Segment-Fairness20"
+            }, {
+                "questiontype": 7,
+                "subquesid": 1008,
+                "subquestion": "subquestion test2Quetion-Segment-Fairness20"
+            }, {
+                "questiontype": 8,
+                "subquesid": 1009,
+                "subquestion": "subquestion test3Quetion-Segment-Fairness20"
+            }, {
+                "questiontype": 7,
+                "subquesid": 1010,
+                "subquestion": "subquestion test4Quetion-Segment-Fairness20"
+            }],
+            "questionid": 202
+        }, {
+            "question": "Quetion-Segment-Fairness21",
+            "questioncontent": [{
+                "questiontype": 7,
+                "subquesid": 1011,
+                "subquestion": "subquestion test0Quetion-Segment-Fairness21"
+            }, {
+                "questiontype": 8,
+                "subquesid": 1012,
+                "subquestion": "subquestion test1Quetion-Segment-Fairness21"
+            }, {
+                "questiontype": 7,
+                "subquesid": 1013,
+                "subquestion": "subquestion test2Quetion-Segment-Fairness21"
+            }, {
+                "questiontype": 8,
+                "subquesid": 1014,
+                "subquestion": "subquestion test3Quetion-Segment-Fairness21"
+            }, {
+                "questiontype": 7,
+                "subquesid": 1015,
+                "subquestion": "subquestion test4Quetion-Segment-Fairness21"
+            }],
+            "questionid": 203
+        }, {
+            "question": "Quetion-Segment-Fairness22",
+            "questioncontent": [{
+                "questiontype": 7,
+                "subquesid": 1016,
+                "subquestion": "subquestion test0Quetion-Segment-Fairness22"
+            }, {
+                "questiontype": 8,
+                "subquesid": 1017,
+                "subquestion": "subquestion test1Quetion-Segment-Fairness22"
+            }, {
+                "questiontype": 7,
+                "subquesid": 1018,
+                "subquestion": "subquestion test2Quetion-Segment-Fairness22"
+            }, {
+                "questiontype": 8,
+                "subquesid": 1019,
+                "subquestion": "subquestion test3Quetion-Segment-Fairness22"
+            }, {
+                "questiontype": 7,
+                "subquesid": 1020,
+                "subquestion": "subquestion test4Quetion-Segment-Fairness22"
+            }],
+            "questionid": 204
+        }],
+        "segmentid": 68
+    }, {
+        "segment": "Segment-Fairness0",
+        "segmentcontent": [{
+            "question": "Quetion-Segment-Fairness02",
+            "questioncontent": [{
+                "questiontype": 7,
+                "subquesid": 986,
+                "subquestion": "subquestion test0Quetion-Segment-Fairness02"
+            }, {
+                "questiontype": 8,
+                "subquesid": 987,
+                "subquestion": "subquestion test1Quetion-Segment-Fairness02"
+            }, {
+                "questiontype": 7,
+                "subquesid": 988,
+                "subquestion": "subquestion test2Quetion-Segment-Fairness02"
+            }, {
+                "questiontype": 8,
+                "subquesid": 989,
+                "subquestion": "subquestion test3Quetion-Segment-Fairness02"
+            }, {
+                "questiontype": 7,
+                "subquesid": 990,
+                "subquestion": "subquestion test4Quetion-Segment-Fairness02"
+            }],
+            "questionid": 198
+        }, {
+            "question": "Quetion-Segment-Fairness00",
+            "questioncontent": [{
+                "questiontype": 8,
+                "subquesid": 977,
+                "subquestion": "subquestion test1Quetion-Segment-Fairness00"
+            }, {
+                "questiontype": 7,
+                "subquesid": 978,
+                "subquestion": "subquestion test2Quetion-Segment-Fairness00"
+            }, {
+                "questiontype": 8,
+                "subquesid": 979,
+                "subquestion": "subquestion test3Quetion-Segment-Fairness00"
+            }, {
+                "questiontype": 7,
+                "subquesid": 980,
+                "subquestion": "subquestion test4Quetion-Segment-Fairness00"
+            }, {
+                "questiontype": 7,
+                "subquesid": 976,
+                "subquestion": "subquestion test0Quetion-Segment-Fairness00"
+            }],
+            "questionid": 196
+        }, {
+            "question": "Quetion-Segment-Fairness01",
+            "questioncontent": [{
+                "questiontype": 7,
+                "subquesid": 985,
+                "subquestion": "subquestion test4Quetion-Segment-Fairness01"
+            }, {
+                "questiontype": 7,
+                "subquesid": 981,
+                "subquestion": "subquestion test0Quetion-Segment-Fairness01"
+            }, {
+                "questiontype": 8,
+                "subquesid": 982,
+                "subquestion": "subquestion test1Quetion-Segment-Fairness01"
+            }, {
+                "questiontype": 7,
+                "subquesid": 983,
+                "subquestion": "subquestion test2Quetion-Segment-Fairness01"
+            }, {
+                "questiontype": 8,
+                "subquesid": 984,
+                "subquestion": "subquestion test3Quetion-Segment-Fairness01"
+            }],
+            "questionid": 197
+        }],
+        "segmentid": 66
+    }, {
+        "segment": "Segment-Fairness3",
+        "segmentcontent": [{
+            "question": "Quetion-Segment-Fairness31",
+            "questioncontent": [{
+                "questiontype": 7,
+                "subquesid": 1026,
+                "subquestion": "subquestion test0Quetion-Segment-Fairness31"
+            }, {
+                "questiontype": 8,
+                "subquesid": 1027,
+                "subquestion": "subquestion test1Quetion-Segment-Fairness31"
+            }, {
+                "questiontype": 7,
+                "subquesid": 1028,
+                "subquestion": "subquestion test2Quetion-Segment-Fairness31"
+            }, {
+                "questiontype": 8,
+                "subquesid": 1029,
+                "subquestion": "subquestion test3Quetion-Segment-Fairness31"
+            }, {
+                "questiontype": 7,
+                "subquesid": 1030,
+                "subquestion": "subquestion test4Quetion-Segment-Fairness31"
+            }],
+            "questionid": 206
+        }, {
+            "question": "Quetion-Segment-Fairness32",
+            "questioncontent": [{
+                "questiontype": 7,
+                "subquesid": 1033,
+                "subquestion": "subquestion test2Quetion-Segment-Fairness32"
+            }, {
+                "questiontype": 8,
+                "subquesid": 1034,
+                "subquestion": "subquestion test3Quetion-Segment-Fairness32"
+            }, {
+                "questiontype": 7,
+                "subquesid": 1035,
+                "subquestion": "subquestion test4Quetion-Segment-Fairness32"
+            }, {
+                "questiontype": 7,
+                "subquesid": 1031,
+                "subquestion": "subquestion test0Quetion-Segment-Fairness32"
+            }, {
+                "questiontype": 8,
+                "subquesid": 1032,
+                "subquestion": "subquestion test1Quetion-Segment-Fairness32"
+            }],
+            "questionid": 207
+        }, {
+            "question": "Quetion-Segment-Fairness30",
+            "questioncontent": [{
+                "questiontype": 8,
+                "subquesid": 1024,
+                "subquestion": "subquestion test3Quetion-Segment-Fairness30"
+            }, {
+                "questiontype": 7,
+                "subquesid": 1025,
+                "subquestion": "subquestion test4Quetion-Segment-Fairness30"
+            }, {
+                "questiontype": 7,
+                "subquesid": 1021,
+                "subquestion": "subquestion test0Quetion-Segment-Fairness30"
+            }, {
+                "questiontype": 7,
+                "subquesid": 1023,
+                "subquestion": "subquestion test2Quetion-Segment-Fairness30"
+            }],
+            "questionid": 205
+        }],
+        "segmentid": 69
+    }, {
+        "segment": "Segment-Fairness4",
+        "segmentcontent": [{
+            "question": "Quetion-Segment-Fairness40",
+            "questioncontent": [{
+                "questiontype": 7,
+                "subquesid": 1036,
+                "subquestion": "subquestion test0Quetion-Segment-Fairness40"
+            }, {
+                "questiontype": 8,
+                "subquesid": 1037,
+                "subquestion": "subquestion test1Quetion-Segment-Fairness40"
+            }, {
+                "questiontype": 7,
+                "subquesid": 1038,
+                "subquestion": "subquestion test2Quetion-Segment-Fairness40"
+            }, {
+                "questiontype": 8,
+                "subquesid": 1039,
+                "subquestion": "subquestion test3Quetion-Segment-Fairness40"
+            }, {
+                "questiontype": 7,
+                "subquesid": 1040,
+                "subquestion": "subquestion test4Quetion-Segment-Fairness40"
+            }],
+            "questionid": 208
+        }, {
+            "question": "Quetion-Segment-Fairness41",
+            "questioncontent": [{
+                "questiontype": 7,
+                "subquesid": 1041,
+                "subquestion": "subquestion test0Quetion-Segment-Fairness41"
+            }, {
+                "questiontype": 8,
+                "subquesid": 1042,
+                "subquestion": "subquestion test1Quetion-Segment-Fairness41"
+            }, {
+                "questiontype": 7,
+                "subquesid": 1043,
+                "subquestion": "subquestion test2Quetion-Segment-Fairness41"
+            }, {
+                "questiontype": 8,
+                "subquesid": 1044,
+                "subquestion": "subquestion test3Quetion-Segment-Fairness41"
+            }, {
+                "questiontype": 7,
+                "subquesid": 1045,
+                "subquestion": "subquestion test4Quetion-Segment-Fairness41"
+            }],
+            "questionid": 209
+        }, {
+            "question": "Quetion-Segment-Fairness42",
+            "questioncontent": [{
+                "questiontype": 7,
+                "subquesid": 1046,
+                "subquestion": "subquestion test0Quetion-Segment-Fairness42"
+            }, {
+                "questiontype": 8,
+                "subquesid": 1047,
+                "subquestion": "subquestion test1Quetion-Segment-Fairness42"
+            }, {
+                "questiontype": 7,
+                "subquesid": 1048,
+                "subquestion": "subquestion test2Quetion-Segment-Fairness42"
+            }, {
+                "questiontype": 8,
+                "subquesid": 1049,
+                "subquestion": "subquestion test3Quetion-Segment-Fairness42"
+            }, {
+                "questiontype": 7,
+                "subquesid": 1050,
+                "subquestion": "subquestion test4Quetion-Segment-Fairness42"
+            }],
+            "questionid": 210
+        }],
+        "segmentid": 70
+    }],
+    "principleid": 18
+}]

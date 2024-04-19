@@ -1,0 +1,371 @@
+[33mcommit 7e6f722c11c565c76df52d94acbf9f23091b922a[m[33m ([m[1;36mHEAD -> [m[1;32menesDashboards[m[33m)[m
+Author: Enes <mgid9133@uni.sydney.edu.au>
+Date:   Sun Oct 8 15:13:14 2023 +1100
+
+    eddesigned admin/projects/progress further
+
+[33mcommit 3e81f15e0c54be5ea0a8d7954c1358aef8cd4511[m[33m ([m[1;31morigin/enesDashboards[m[33m)[m
+Author: Enes <mgid9133@uni.sydney.edu.au>
+Date:   Sat Oct 7 15:29:40 2023 +1100
+
+    New custom button component committed
+
+[33mcommit 11facbb90a8515039d191dc1f46f3e768caee22a[m
+Author: Enes <mgid9133@uni.sydney.edu.au>
+Date:   Sat Oct 7 15:24:06 2023 +1100
+
+    Improved consistency across to SupplierAdmin dashboard
+
+[33mcommit 75a1bd386a6273dc5c23cc162253f81e34402aa4[m
+Author: Enes <mgid9133@uni.sydney.edu.au>
+Date:   Sat Oct 7 15:15:40 2023 +1100
+
+    Improved designs across system design dashboard
+
+[33mcommit c5b87dc3e18ef7f54264a0edf08402ff958f8693[m
+Author: Enes <mgid9133@uni.sydney.edu.au>
+Date:   Sat Oct 7 14:26:23 2023 +1100
+
+    Created CustomButton component + Improved Admin/QuestionList
+
+[33mcommit c180b0901e441124c101fd5858d711952c3a2664[m
+Author: Enes <mgid9133@uni.sydney.edu.au>
+Date:   Fri Oct 6 21:19:34 2023 +1100
+
+    merged
+
+[33mcommit 26801be4928968eb0c09292a9c2e1b197f092833[m[33m ([m[1;31morigin/gavin5/10[m[33m, [m[1;32mgavin5/10[m[33m)[m
+Author: Gavin Ryan <grya8915@uni.sydney.edu.au>
+Date:   Thu Oct 5 17:52:23 2023 +1100
+
+    Redesigned admin/projects/manage and admin/projects/progress
+
+[33mcommit 07bf162c327544eea12c06b5ec60fff3f51315a7[m
+Author: Gavin Ryan <grya8915@uni.sydney.edu.au>
+Date:   Thu Oct 5 16:31:37 2023 +1100
+
+    Redesigned admin/users/detail page
+
+[33mcommit 9ff5b0882b8780c8bf6beb4c83d5a320714296ba[m
+Author: Gavin Ryan <grya8915@uni.sydney.edu.au>
+Date:   Thu Oct 5 14:08:59 2023 +1100
+
+    Redesigned:
+    - users/aisupplieradmin
+    - users/aisupplier
+    - users/validator
+    
+    Also fixed up admin/project list
+
+[33mcommit 110b4e640eab1a4d0ef8f19a28fe2da4ec8ce85b[m
+Author: Gavin Ryan <grya8915@uni.sydney.edu.au>
+Date:   Thu Oct 5 13:41:03 2023 +1100
+
+    redesigned admin/questionlist/detail
+
+[33mcommit 2a060e93fcb76ef748aaf63237ad12124251e783[m
+Author: Gavin Ryan <grya8915@uni.sydney.edu.au>
+Date:   Thu Oct 5 12:58:26 2023 +1100
+
+    Changed admin/questionlist from table to cards
+
+[33mcommit ed8f9be619b270cfc8f5cc479be3d4f6248de351[m
+Author: Gavin Ryan <grya8915@uni.sydney.edu.au>
+Date:   Thu Oct 5 12:23:12 2023 +1100
+
+    Added circular image to both drop down, and dropdown card
+
+[33mcommit d73fd6a90abc2d4589942e331c8324e929d8d3c8[m
+Author: Enes <mgid9133@uni.sydney.edu.au>
+Date:   Mon Oct 2 21:20:12 2023 +1100
+
+    Administrator/Users/NewUser + SideMenu text changes
+
+[33mcommit ce3f93ce12433b5ff6eeb38e00efb1cc23543c5b[m
+Author: Enes <mgid9133@uni.sydney.edu.au>
+Date:   Sun Oct 1 17:00:07 2023 +1100
+
+    Administrator Questions/NewSubQuestion
+
+[33mcommit 60ce550a1834bb62b774a856e7534064fee1d459[m
+Author: Enes <mgid9133@uni.sydney.edu.au>
+Date:   Sun Oct 1 16:19:25 2023 +1100
+
+    Administrator Questions/NewQuestion
+
+[33mcommit a140a33502764e77d36bbb6079f0100de9931dc7[m
+Author: Enes <mgid9133@uni.sydney.edu.au>
+Date:   Sun Oct 1 16:07:19 2023 +1100
+
+    Administrator Questions/NewSegment
+
+[33mcommit cb717480f41b231f088d2af62720230950999cad[m
+Author: Enes <mgid9133@uni.sydney.edu.au>
+Date:   Sun Oct 1 15:45:43 2023 +1100
+
+    Administrator Questions/NewPrinciple
+
+[33mcommit d2865dc3b185fb0726face23e2185cab05018664[m
+Author: Enes <mgid9133@uni.sydney.edu.au>
+Date:   Sat Sep 30 17:05:55 2023 +1000
+
+    AI SupplierAdmin assign project
+
+[33mcommit c31968f586ca0be0c0be61ca3fcd3c43ff135c3d[m
+Author: Enes <mgid9133@uni.sydney.edu.au>
+Date:   Sat Sep 30 16:44:59 2023 +1000
+
+    AI SupplierAdmin project details
+
+[33mcommit 52b4f15df85e49057110244cf515fb2f639f48e0[m
+Author: Enes <mgid9133@uni.sydney.edu.au>
+Date:   Sat Sep 30 15:14:13 2023 +1000
+
+    AI SupplierAdmin create new project
+
+[33mcommit 3ada71568c1a24b77a21374c3980ed70cb36b71e[m[33m ([m[1;31morigin/gavin25-9[m[33m, [m[1;32mgavin25-9[m[33m)[m
+Author: Gavin Ryan <grya8915@uni.sydney.edu.au>
+Date:   Fri Sep 29 13:00:15 2023 +1000
+
+    - Created a consistent layout for projects section on all stakeholders
+    - Redesigned side menu for all stakeholders
+
+[33mcommit 19438053d20a152fc394037e95a69c6941c63f2a[m
+Author: Gavin Ryan <grya8915@uni.sydney.edu.au>
+Date:   Mon Sep 25 18:32:55 2023 +1000
+
+    Fixed up layout of profile page
+    Added circular profile logo
+    Changed side menu to feature Elens logo and link back to home page
+
+[33mcommit 48e5006f657c54cbc5d34d5519e5dc5f733e54e4[m
+Author: Enes <mgid9133@uni.sydney.edu.au>
+Date:   Tue Sep 19 22:41:27 2023 +1000
+
+    dashboard side menu
+
+[33mcommit 3dcb01655c7ac0728af42c94bbfe3db17966e291[m
+Author: Enes <mgid9133@uni.sydney.edu.au>
+Date:   Tue Sep 19 22:34:33 2023 +1000
+
+    dashboard side menu
+
+[33mcommit ef2b4701ced6cbf8bfc3a6a58bced6c4c9344761[m
+Author: Enes <mgid9133@uni.sydney.edu.au>
+Date:   Tue Sep 19 22:31:44 2023 +1000
+
+    modified new supplierAdmin projects dashboard
+
+[33mcommit c66c341f0e9a00beeccec05995ba2e3c9951e58c[m
+Author: Enes <mgid9133@uni.sydney.edu.au>
+Date:   Tue Sep 19 22:13:50 2023 +1000
+
+    side menu
+
+[33mcommit cb4da68bb22b6f16c7259ec9e4e28331581d820a[m
+Author: Enes <mgid9133@uni.sydney.edu.au>
+Date:   Tue Sep 19 22:07:06 2023 +1000
+
+    side menu
+
+[33mcommit d31c07a05c0e0501d3f2546c866966212ff6cf19[m
+Author: Enes <mgid9133@uni.sydney.edu.au>
+Date:   Tue Sep 19 21:46:51 2023 +1000
+
+    side menu
+
+[33mcommit 7ce92be4bd1f12bbfee8fbb9bd5509bb1c308c64[m
+Merge: 4ac9d6c d9dd8a3
+Author: Enes <mgid9133@uni.sydney.edu.au>
+Date:   Tue Sep 19 20:51:37 2023 +1000
+
+    merge
+
+[33mcommit 4ac9d6c1214abe78af4a350bb1a5e1059837c2e2[m
+Author: Enes <mgid9133@uni.sydney.edu.au>
+Date:   Tue Sep 19 20:43:51 2023 +1000
+
+    sidebar redesign
+
+[33mcommit d9dd8a341fa6bdfad11c0b8f20041ead5f06e1a3[m[33m ([m[1;31morigin/gavinFrontend30-8[m[33m, [m[1;32mgavinFrontend30-8[m[33m)[m
+Author: Gavin Ryan <grya8915@uni.sydney.edu.au>
+Date:   Tue Sep 19 20:40:38 2023 +1000
+
+    - Redesigned header component
+    - Redesigned projects table
+    - Redesigned projects page layout
+
+[33mcommit 51c8311402e407928632b1799e7206934540cea2[m
+Merge: ef52baf 96fe989
+Author: Gavin Ryan <grya8915@uni.sydney.edu.au>
+Date:   Tue Sep 12 23:50:31 2023 +1000
+
+    Merge commit '96fe98950d2daa884473f462b69509a1dcc26724' into gavinFrontend30-8
+    
+    # Conflicts:
+    #       src/views/index/index.jsx
+    #       src/views/news/news.jsx
+    
+    - Fixed up merge conflicts
+
+[33mcommit ef52baf6aeedd33bf56effa1bc628c8dc3ff2796[m
+Author: Gavin Ryan <grya8915@uni.sydney.edu.au>
+Date:   Tue Sep 12 23:34:07 2023 +1000
+
+    - Changed contact page
+    - Second review of style consistency across pages
+    - Made services cards consistent with stakeholder cards
+    - Redesigned about page card with three columns
+    - Small changes to news section
+
+[33mcommit 96fe98950d2daa884473f462b69509a1dcc26724[m
+Author: Enes <mgid9133@uni.sydney.edu.au>
+Date:   Tue Sep 12 22:55:42 2023 +1000
+
+    home background smoothness + read more button visibility
+
+[33mcommit e91709d12ecb898a9680880cf6b689aac56563ba[m
+Merge: 6fa8477 bfc5bd9
+Author: Enes <mgid9133@uni.sydney.edu.au>
+Date:   Tue Sep 12 22:21:20 2023 +1000
+
+    Merge branch 'gavinFrontend30-8' into enes
+
+[33mcommit 6fa8477680dbaa29b500678dd06279ac16fafcf6[m
+Author: Enes <mgid9133@uni.sydney.edu.au>
+Date:   Tue Sep 12 22:20:16 2023 +1000
+
+    ethical principles to home
+
+[33mcommit bfc5bd949627d42f0b941cb87c19b1120efa0944[m
+Author: Gavin Ryan <grya8915@uni.sydney.edu.au>
+Date:   Tue Sep 12 20:01:31 2023 +1000
+
+    - see more button on Our Team section of home page
+    - Combined both colour and pattern of card
+    - Redesign Contact page
+    - Reviewed consistency of home, about, services, news and contact
+
+[33mcommit f20f91814d815eb693c48cf5d4e355213a18f5dc[m
+Author: Enes <mgid9133@uni.sydney.edu.au>
+Date:   Tue Sep 12 19:28:53 2023 +1000
+
+    home page ethical principles section
+
+[33mcommit 6e6e3a449a74f14d8676083432249d4081961cea[m
+Merge: 0c44498 118ce9b
+Author: Enes <mgid9133@uni.sydney.edu.au>
+Date:   Wed Sep 6 14:29:22 2023 +1000
+
+    fixed page title/hexagon background sizes
+
+[33mcommit 0c4449899b131f2dd34bf6623b987d4f4b4ea59e[m
+Author: Enes <mgid9133@uni.sydney.edu.au>
+Date:   Wed Sep 6 13:34:54 2023 +1000
+
+    changed home's section titles to gradient
+
+[33mcommit 118ce9bd7b94c43a09ccd82886e746c2995e8ce9[m
+Author: Gavin Ryan <grya8915@uni.sydney.edu.au>
+Date:   Wed Sep 6 10:45:46 2023 +1000
+
+    small alignment fixes to about page
+
+[33mcommit 237d03ce9c199d7bc652eb3549b914b94d9f736b[m
+Merge: e68624e 72b84e8
+Author: Gavin Ryan <grya8915@uni.sydney.edu.au>
+Date:   Wed Sep 6 10:29:23 2023 +1000
+
+    Merge commit '72b84e8d730d7dbe0b7c528536ab4d5c2a22e09a' into gavinFrontend30-8
+
+[33mcommit e68624ed055853b7b0606e3123c6185eb4c2aae4[m
+Author: Gavin Ryan <grya8915@uni.sydney.edu.au>
+Date:   Wed Sep 6 10:28:39 2023 +1000
+
+    Redesign of Contact Us page
+
+[33mcommit 72b84e8d730d7dbe0b7c528536ab4d5c2a22e09a[m
+Author: Enes <mgid9133@uni.sydney.edu.au>
+Date:   Tue Sep 5 19:39:31 2023 +1000
+
+    news background + card changes
+
+[33mcommit 76c78d9d141615c31cff5cce0c9d07717ce41f3b[m
+Author: Gavin Ryan <grya8915@uni.sydney.edu.au>
+Date:   Thu Aug 31 13:09:12 2023 +1000
+
+    - First draft of About page redesign
+    - Minor fixes to the Services page
+
+[33mcommit b3b1e483bba1a7ee6eabd14a88ed5810e7c25b32[m
+Author: Enes <mgid9133@uni.sydney.edu.au>
+Date:   Tue Aug 29 19:55:28 2023 +1000
+
+    consistent navbar + services page (timeline, welcome section, text colours/visibility)
+
+[33mcommit 94d8873a1cd4e78972ea46f07704744cdad733a0[m
+Author: Enes <mgid9133@uni.sydney.edu.au>
+Date:   Tue Aug 29 19:04:44 2023 +1000
+
+    consistent navbar + services page (timeline, text visibility/colours)
+
+[33mcommit 39a440d3af9683e6dc601c51079419f76bb072a2[m
+Author: Enes <mgid9133@uni.sydney.edu.au>
+Date:   Sun Aug 27 15:28:13 2023 +1000
+
+    added custom-card backgrounds + changed shade of green
+
+[33mcommit 2ae1b9ffb96a33ca195fb5783deeb9a15583c8c6[m
+Author: Enes <mgid9133@uni.sydney.edu.au>
+Date:   Sat Aug 26 16:56:52 2023 +1000
+
+    front page font & header adjustments
+
+[33mcommit 878aae06edd569316b3377178f8e26a238927852[m
+Author: Enes <mgid9133@uni.sydney.edu.au>
+Date:   Sat Aug 26 14:37:35 2023 +1000
+
+    fixed header button alignments
+
+[33mcommit 39a3cb845322c1c9a2bed38dc2ad218eb0e0a24f[m
+Author: Enes <mgid9133@uni.sydney.edu.au>
+Date:   Sat Aug 26 14:30:34 2023 +1000
+
+    modified header
+
+[33mcommit bf09499a98f9ade9fa399172a3f5ed4b27b6dce6[m[33m ([m[1;32mgavinFrontend[m[33m)[m
+Author: Gavin Ryan <grya8915@uni.sydney.edu.au>
+Date:   Fri Aug 25 18:50:04 2023 +1000
+
+    Added images and components that were missed in previous commit
+
+[33mcommit 3e649ce2fc7f23794a3ad073a63b8cf22ce9f0d3[m
+Author: Gavin Ryan <grya8915@uni.sydney.edu.au>
+Date:   Fri Aug 25 18:48:10 2023 +1000
+
+    Multiple Commits from Previous Repo in One
+    Week 3:
+    - Removed spinning logo
+    - Reformatted hero text and images
+    - Synced up transitions for hero text and images
+    
+    Week 4:
+    - Added new card design for sections
+    - Added Reveal transition component
+    - Added RevealSlow transition component
+    - Added process timeline to Services page
+    - Improved design of home page and spaced out cards
+    - Complete redesign of Services page including new Stakeholder cards
+    - Redesigned Projects section including card design.
+
+[33mcommit 3385837918582600472a229f3a4af70a7feb067e[m[33m ([m[1;31morigin/master[m[33m, [m[1;31morigin/HEAD[m[33m, [m[1;32mmaster[m[33m)[m
+Author: Jianlong Zhou <jianlong.zhou@uts.edu.au>
+Date:   Wed Aug 23 15:29:46 2023 +1000
+
+    -inital version of frontend
+
+[33mcommit 35391478e395fce18a964d3c17c68127f079b8a9[m
+Author: Jianlong.Zhou <jianlong.zhou@uts.edu.au>
+Date:   Wed Aug 23 01:37:10 2023 +0000
+
+    Initial commit

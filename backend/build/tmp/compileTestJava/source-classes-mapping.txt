@@ -1,0 +1,20 @@
+com/sydney/au/ethicalaivalidation/repository/PrinciplesRepositoryTest.java
+ com.sydney.au.ethicalaivalidation.repository.PrinciplesRepositoryTest
+com/sydney/au/ethicalaivalidation/controller/SupplierAdminControllerTest.java
+ com.sydney.au.ethicalaivalidation.controller.SupplierAdminControllerTest
+com/sydney/au/ethicalaivalidation/repository/ProjectassignRepositoryTest.java
+ com.sydney.au.ethicalaivalidation.repository.ProjectassignRepositoryTest
+com/sydney/au/ethicalaivalidation/testSql.java
+ com.sydney.au.ethicalaivalidation.testSql
+com/sydney/au/ethicalaivalidation/repository/QuestionfeedbackRepositoryTest.java
+ com.sydney.au.ethicalaivalidation.repository.QuestionfeedbackRepositoryTest
+com/sydney/au/ethicalaivalidation/controller/SupplierControllerTest.java
+ com.sydney.au.ethicalaivalidation.controller.SupplierControllerTest
+com/sydney/au/ethicalaivalidation/service/SupplierServiceTest.java
+ com.sydney.au.ethicalaivalidation.service.SupplierServiceTest
+com/sydney/au/ethicalaivalidation/DatabaseInsert.java
+ com.sydney.au.ethicalaivalidation.DatabaseInsert
+com/sydney/au/ethicalaivalidation/EthicalaivalidationApplicationTests.java
+ com.sydney.au.ethicalaivalidation.EthicalaivalidationApplicationTests
+com/sydney/au/ethicalaivalidation/DatabaseInsertFinal.java
+ com.sydney.au.ethicalaivalidation.DatabaseInsertFinal

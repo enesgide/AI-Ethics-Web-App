@@ -1,0 +1,78 @@
+{
+    "content": [{
+        "principle": "Transparency",
+        "principlecontent": [{
+            "checksummary": 0,
+            "segment": "Segment-Transparency0",
+            "segmentcomment": "",
+            "segmentcontent": [{
+                "question": "Quetion-Segment-Transparency00",
+                "questioncontent": [{
+                    "answer": null,
+                    "check": 0,
+                    "quescomment": [{
+                        "comment": "g1h",
+                        "commenter": "Test27V",
+                        "commenttime": "2021-04-30T11:22:58.000+0000"
+                    }],
+                    "subquesid": 901,
+                    "subquestion": 901
+                }, {
+                    "answer": null,
+                    "check": 0,
+                    "quescomment": [],
+                    "subquesid": 903,
+                    "subquestion": 903
+                }, {
+                    "answer": null,
+                    "check": 0,
+                    "quescomment": [],
+                    "subquesid": 904,
+                    "subquestion": 904
+                }],
+                "questionid": 181
+            }, {
+                "question": "Quetion-Segment-Transparency01",
+                "questioncontent": [{
+                    "answer": null,
+                    "check": 0,
+                    "quescomment": [],
+                    "subquesid": 906,
+                    "subquestion": 906
+                }, {
+                    "answer": null,
+                    "check": 0,
+                    "quescomment": [],
+                    "subquesid": 907,
+                    "subquestion": 907
+                }],
+                "questionid": 182
+            }],
+            "segmentid": 61
+        }]
+    }, {
+        "principle": "play",
+        "principlecontent": [{
+            "checksummary": 0,
+            "segment": "非法",
+            "segmentcomment": "",
+            "segmentcontent": [{
+                "question": "费瓦",
+                "questioncontent": [{
+                    "answer": null,
+                    "check": 0,
+                    "quescomment": [],
+                    "subquesid": 1210,
+                    "subquestion": 1210
+                }],
+                "questionid": 246
+            }],
+            "segmentid": 91
+        }]
+    }],
+    "createdtime": "2021-04-30T09:27:25.000+0000",
+    "creator": "supplieradmin-test",
+    "description": "test3",
+    "projectname": "projecttest3",
+    "updatetime": null
+}

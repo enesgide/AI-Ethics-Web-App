@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- Created with Jaspersoft Studio version 6.20.6.final using JasperReports Library version 6.20.6-5c96b6aa8a39ac1dc6b6bea4b81168e16dd39231  -->
+<jasperReport xmlns="http://jasperreports.sourceforge.net/jasperreports" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://jasperreports.sourceforge.net/jasperreports http://jasperreports.sourceforge.net/xsd/jasperreport.xsd" name="Wave Cover" pageWidth="595" pageHeight="842" whenNoDataType="AllSectionsNoDetail" columnWidth="595" leftMargin="0" rightMargin="0" topMargin="0" bottomMargin="0" uuid="c50b24eb-eb33-413f-8e75-e7e20a5341fd">
+	<property name="com.jaspersoft.studio.unit." value="pixel"/>
+	<property name="com.jaspersoft.studio.unit.pageHeight" value="pixel"/>
+	<property name="com.jaspersoft.studio.unit.pageWidth" value="pixel"/>
+	<property name="com.jaspersoft.studio.unit.topMargin" value="pixel"/>
+	<property name="com.jaspersoft.studio.unit.bottomMargin" value="pixel"/>
+	<property name="com.jaspersoft.studio.unit.leftMargin" value="pixel"/>
+	<property name="com.jaspersoft.studio.unit.rightMargin" value="pixel"/>
+	<property name="com.jaspersoft.studio.unit.columnWidth" value="pixel"/>
+	<property name="com.jaspersoft.studio.unit.columnSpacing" value="pixel"/>
+	<property name="com.jaspersoft.studio.data.defaultdataadapter" value="One Empty Record"/>
+	<parameter name="AISupplier" class="java.lang.String"/>
+	<parameter name="AIProjectName" class="java.lang.String"/>
+	<queryString>
+		<![CDATA[]]>
+	</queryString>
+	<title>
+		<band height="841" splitType="Stretch">
+			<image scaleImage="FillFrame">
+				<reportElement x="0" y="370" width="595" height="471" uuid="7d5f399a-cbec-48b3-979b-064c0b477ca2">
+					<property name="local_mesure_unitx" value="pixel"/>
+					<property name="com.jaspersoft.studio.unit.x" value="px"/>
+				</reportElement>
+				<imageExpression><![CDATA["\\Users\\branq\\Documents\\soft3888_tu12_02\\back-end\\Jas\\app\\src\\main\\resources\\MyReports\\wave.png"]]></imageExpression>
+			</image>
+			<staticText>
+				<reportElement positionType="Float" x="43" y="250" width="534" height="54" forecolor="#8AA158" uuid="149b8a71-8bfc-4314-a9ce-5f1519f16c93"/>
+				<box leftPadding="20" rightPadding="20"/>
+				<textElement textAlignment="Right">
+					<font size="34"/>
+				</textElement>
+				<text><![CDATA[VALIDATION REPORT]]></text>
+			</staticText>
+			<textField>
+				<reportElement positionType="Float" stretchType="ElementGroupBottom" x="43" y="310" width="534" height="100" uuid="7f58d454-cae0-4ebb-9ccd-c885124eb525"/>
+				<box leftPadding="20" rightPadding="20"/>
+				<textElement textAlignment="Right">
+					<font size="20" isItalic="false"/>
+				</textElement>
+				<textFieldExpression><![CDATA[$P{AIProjectName} + " by " + $P{AISupplier}]]></textFieldExpression>
+			</textField>
+			<textField>
+				<reportElement x="343" y="803" width="234" height="30" uuid="38fc9afd-edcb-42f3-b6bc-cd258f6507b3"/>
+				<textElement textAlignment="Right">
+					<font size="12"/>
+				</textElement>
+				<textFieldExpression><![CDATA["Generated on " + new SimpleDateFormat("E MMM d, yyyy").format(new java.util.Date())]]></textFieldExpression>
+			</textField>
+			<image>
+				<reportElement mode="Transparent" x="30" y="20" width="170" height="110" uuid="12bbdacd-6377-4000-a234-112b5e9ad78b"/>
+				<imageExpression><![CDATA["\\Users\\branq\\Documents\\soft3888_tu12_02\\back-end\\Jas\\app\\src\\main\\resources\\MyReports\\logo.jpg"]]></imageExpression>
+			</image>
+			<staticText>
+				<reportElement positionType="Float" x="43" y="440" width="534" height="30" uuid="753c31a0-78a5-4fd8-a8cf-7c3ab38cc19a"/>
+				<box leftPadding="20" rightPadding="20"/>
+				<textElement textAlignment="Right">
+					<font size="16"/>
+				</textElement>
+				<text><![CDATA[UTS Data Science Institute]]></text>
+			</staticText>
+			<staticText>
+				<reportElement x="140" y="30" width="191" height="61" uuid="02383871-6d49-42ce-a88f-999976a9093b"/>
+				<textElement>
+					<font size="40"/>
+				</textElement>
+				<text><![CDATA[E-LENS]]></text>
+			</staticText>
+			<staticText>
+				<reportElement x="140" y="90" width="200" height="41" uuid="cdef4f60-00d6-4d78-8912-44ea342a6e24"/>
+				<textElement>
+					<font size="16"/>
+				</textElement>
+				<text><![CDATA[ASSURANCE OF AI ETHICS]]></text>
+			</staticText>
+		</band>
+	</title>
+</jasperReport>

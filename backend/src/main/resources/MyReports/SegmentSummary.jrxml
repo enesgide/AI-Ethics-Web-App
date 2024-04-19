@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- Created with Jaspersoft Studio version 6.20.6.final using JasperReports Library version 6.20.6-5c96b6aa8a39ac1dc6b6bea4b81168e16dd39231  -->
+<jasperReport xmlns="http://jasperreports.sourceforge.net/jasperreports" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://jasperreports.sourceforge.net/jasperreports http://jasperreports.sourceforge.net/xsd/jasperreport.xsd" name="Blank_A4" pageWidth="595" pageHeight="842" columnWidth="555" leftMargin="20" rightMargin="20" topMargin="20" bottomMargin="20" uuid="7d22694b-8635-4104-a226-da2d8dd8b2a0">
+	<parameter name="Principle" class="java.lang.String"/>
+	<parameter name="Segment" class="java.lang.String"/>
+	<parameter name="SegmentSummary" class="java.lang.String"/>
+	<queryString>
+		<![CDATA[]]>
+	</queryString>
+	<background>
+		<band splitType="Stretch"/>
+	</background>
+	<title>
+		<band height="101" splitType="Stretch">
+			<property name="com.jaspersoft.studio.layout" value="com.jaspersoft.studio.editor.layout.FreeLayout"/>
+			<image scaleImage="FillFrame">
+				<reportElement mode="Transparent" x="-20" y="0" width="540" height="100" uuid="126dffc1-64b2-4b47-93f4-a5e6b9cacb36"/>
+				<imageExpression><![CDATA["\\Users\\branq\\Documents\\soft3888_tu12_02\\back-end\\Jas\\app\\src\\main\\resources\\MyReports\\long green wave lighter.png"]]></imageExpression>
+			</image>
+			<textField>
+				<reportElement x="0" y="34" width="270" height="36" uuid="bffa6564-c12e-440f-b46b-a09c13c75427"/>
+				<textElement textAlignment="Left">
+					<font size="26"/>
+				</textElement>
+				<textFieldExpression><![CDATA[$P{Principle}]]></textFieldExpression>
+			</textField>
+		</band>
+	</title>
+	<pageHeader>
+		<band height="90" splitType="Stretch">
+			<property name="com.jaspersoft.studio.unit.height" value="px"/>
+			<textField>
+				<reportElement x="0" y="20" width="270" height="30" uuid="7d1889df-4003-4550-acec-bc8e7a4eb4c1"/>
+				<textElement textAlignment="Left">
+					<font size="22"/>
+				</textElement>
+				<textFieldExpression><![CDATA[$P{Segment}]]></textFieldExpression>
+			</textField>
+		</band>
+	</pageHeader>
+	<columnHeader>
+		<band height="500" splitType="Stretch">
+			<textField>
+				<reportElement x="0" y="0" width="575" height="50" uuid="8d1d7e14-3f2b-4378-ba02-578cbb8d5f06"/>
+				<textElement textAlignment="Left">
+					<font size="18"/>
+				</textElement>
+				<textFieldExpression><![CDATA[$P{SegmentSummary}]]></textFieldExpression>
+			</textField>
+			<rectangle>
+				<reportElement stretchType="ContainerHeight" x="-20" y="-90" width="600" height="90" isPrintWhenDetailOverflows="true" backcolor="rgba(233, 250, 225, 0.39215687)" uuid="673075ed-7a5d-4652-ad93-7d8646096a92"/>
+				<graphicElement>
+					<pen lineWidth="0.0"/>
+				</graphicElement>
+			</rectangle>
+			<rectangle>
+				<reportElement stretchType="ContainerHeight" x="-23" y="0" width="600" height="140" isPrintWhenDetailOverflows="true" backcolor="rgba(216, 245, 203, 0.39215687)" uuid="9746b72c-961e-4ec2-a541-aecd542ccced"/>
+				<graphicElement>
+					<pen lineWidth="0.0"/>
+				</graphicElement>
+			</rectangle>
+		</band>
+	</columnHeader>
+	<pageFooter>
+		<band height="50">
+			<textField>
+				<reportElement x="475" y="31" width="100" height="19" uuid="5d0d0f61-a3d3-4c95-bb04-72e8454fff9e"/>
+				<textFieldExpression><![CDATA[$V{PAGE_NUMBER}]]></textFieldExpression>
+			</textField>
+		</band>
+	</pageFooter>
+</jasperReport>

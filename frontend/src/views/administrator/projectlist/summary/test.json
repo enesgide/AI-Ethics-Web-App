@@ -1,0 +1,123 @@
+{
+    "content": [{
+        "principle": "Transparency",
+        "principlecontent": [{
+            "segment": "Segment-Transparency0",
+            "segmentcontent": [{
+                "question": "Quetion-Segment-Transparency00",
+                "questioncontent": [{
+                    "level": 0,
+                    "point": 0,
+                    "subquestion": "subquestion test0Quetion-Segment-Transparency00",
+                    "youranswer": "link: http://www.google.com"
+                }]
+            }],
+            "summary": {
+                "id": 20,
+                "projectid": 23,
+                "validatorid": 143,
+                "segmentid": 94,
+                "summary": "1",
+                "createdtime": "2021-05-11T15:51:25.000+0000"
+            }
+        }]
+    }, {
+        "principle": "Privacy",
+        "principlecontent": [{
+            "segment": "Segment-Privacy1",
+            "segmentcontent": [{
+                "question": "Quetion-Segment-Privacy11",
+                "questioncontent": [{
+                    "level": 1,
+                    "point": 0,
+                    "subquestion": "subquestion test1Quetion-Segment-Privacy11",
+                    "youranswer": "http://www.google.com"
+                }, {
+                    "level": 0,
+                    "point": 0,
+                    "subquestion": "subquestion test0Quetion-Segment-Privacy11",
+                    "youranswer": "link: http://www.google.com"
+                }]
+            }, {
+                "question": "Quetion-Segment-Privacy10",
+                "questioncontent": [{
+                    "level": 1,
+                    "point": 0,
+                    "subquestion": "subquestion test1Quetion-Segment-Privacy10",
+                    "youranswer": "http://www.google.com"
+                }, {
+                    "level": 0,
+                    "point": 0,
+                    "subquestion": "subquestion test0Quetion-Segment-Privacy10",
+                    "youranswer": "link: http://www.google.com"
+                }]
+            }],
+            "summary": {
+                "id": 19,
+                "projectid": 23,
+                "validatorid": 143,
+                "segmentid": 101,
+                "summary": "1",
+                "createdtime": "2021-05-11T15:51:23.000+0000"
+            }
+        }, {
+            "segment": "Segment-Privacy0",
+            "segmentcontent": [{
+                "question": "Quetion-Segment-Privacy00",
+                "questioncontent": [{
+                    "level": 1,
+                    "point": 0,
+                    "subquestion": "subquestion test1Quetion-Segment-Privacy00",
+                    "youranswer": "http://www.google.com"
+                }, {
+                    "level": 0,
+                    "point": 0,
+                    "subquestion": "subquestion test0Quetion-Segment-Privacy00",
+                    "youranswer": "link: http://www.google.com"
+                }]
+            }, {
+                "question": "Quetion-Segment-Privacy01",
+                "questioncontent": [{
+                    "level": 0,
+                    "point": 0,
+                    "subquestion": "subquestion test0Quetion-Segment-Privacy01",
+                    "youranswer": "link: http://www.google.com"
+                }, {
+                    "level": 1,
+                    "point": 0,
+                    "subquestion": "subquestion test1Quetion-Segment-Privacy01",
+                    "youranswer": "http://www.google.com"
+                }]
+            }],
+            "summary": {
+                "id": 18,
+                "projectid": 23,
+                "validatorid": 143,
+                "segmentid": 100,
+                "summary": "1",
+                "createdtime": "2021-05-11T15:51:21.000+0000"
+            }
+        }]
+    }],
+    "createdtime": "2021-05-11T15:47:31.000+0000",
+    "creator": {
+        "id": 142,
+        "username": "Test0",
+        "password": "eyJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJwYXNzd29yZCJ9.XZ0-LKjKyhGzW76FpJzmGMPuobmaf_OeKfM0l52iSTs",
+        "email": "Test0@gmail.com",
+        "usertype": 1,
+        "firstname": "Test0",
+        "lastname": "Moment",
+        "companyid": 31,
+        "address1": "address10Test",
+        "address2": "address20Moment",
+        "phone": "00",
+        "createdtime": "2021-05-11T15:45:54.000+0000",
+        "verifiedemail": 1,
+        "passwordtoken": "eyJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJUZXN0MCJ9.ZoxVWLL4aR8apiQN4JR78wgzeuMKKK1CsHD2ZrNlBOc",
+        "emailtoken": "50129903adac26dd8c761743cd1de3f3",
+        "image": "defaultimage.png"
+    },
+    "description": "test1",
+    "projectname": "projecttest1"
+}

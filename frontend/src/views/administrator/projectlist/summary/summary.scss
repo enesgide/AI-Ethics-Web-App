@@ -1,0 +1,21 @@
+.question-item{
+    border: 1px solid #000;
+    text-align: left;
+    margin:0;
+    .question-context{
+        width: 50%;
+        // float: left;
+        .container{
+            margin: 0 0 !important;
+            margin-left: 1em !important;
+        }
+        
+    }
+}
+
+.finished{
+    background-color: #D5E8D4;
+}
+.error{
+    background-color: #F8CECC;
+}

@@ -1,0 +1,24 @@
+.M-Table-Header{
+    background: #A7C942 100%;
+}
+
+.M-Table > tbody > tr:nth-child(odd){
+    background:#FFFFFF ;
+    color:#000;
+    font-size:15px
+}
+
+.M-Table > tbody >tr:nth-child(even){
+    background:#EAF2D3 ;
+    color:#000;
+    font-size:15px
+}
+
+.project-row {
+    background-color: #FFF;
+    padding: 30px;
+    margin-top: 30px;
+    margin-bottom: 30px;
+    border-radius: 20px;
+    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+}

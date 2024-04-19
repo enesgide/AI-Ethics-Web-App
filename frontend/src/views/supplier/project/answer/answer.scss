@@ -1,0 +1,131 @@
+.main {
+    display: flex;
+    margin:3em 3em 0 -2em;
+    width: 80%;
+    &-item:first-child {
+      & .main-item-circle_area_line0 {
+        width: 0px !important;
+      }
+    }
+    &-item:first-child {
+      & .main-item-circle_area_line1 {
+        width: 0px !important;
+      }
+    }
+    &-item {
+      display: flex;
+      flex-direction: column;
+      align-items: center;
+      width: 100%;
+      &-title0{      /////////**********绘制气泡主体的圆角矩形***************/////////
+        height:45px;
+        width: 60%;
+        //font-size: 16px;
+        display: flex;
+        justify-content: center;
+        position: relative;
+        background:transparent;///////状态为 未完成 的步骤气泡颜色透明
+        border:100px;
+        border-radius:15px;
+  
+      }
+      &-title1{
+        height:45px;
+        width: 60%;
+        //font-size: 16px;
+        display: flex;
+        justify-content: center;
+        position: relative;
+        background: #fff;;
+        border:100px;
+        border-radius:15px;//圆角的直径
+  
+      }
+      //****************字体***************
+      &-title_text0{
+        display: flex;
+        justify-content: center;
+        position: absolute;
+        font-size:16px;
+        font-weight: bold;
+        color: dimgrey;
+        top:20%
+      }
+      &-title_text1{
+        display: flex;
+        justify-content: center;
+        position: absolute;
+        font-size:16px;
+        font-weight: bold;
+        color: #716E84;
+        top:20%
+      }
+      //***********绘制气泡的小尖尖************
+      //**************绘制小圆点**************
+      &-circle_area{
+        width: 100%;
+        display: flex;
+        justify-content: center;
+        //align-items: center;
+        position: relative;
+        &_point0{
+          width: 30px;
+          height: 30px;
+          background: #ccc;
+          border-radius: 50%;
+        }
+        &_point1{/////////////*********已完成的结点的圆点颜色为蓝色**********/////////////
+          width: 30px;
+          height: 30px;
+          background: #13A3DE;
+          border-radius: 50%;
+          z-index: 1;
+        }
+        //**************绘制连接线***************
+        &_line0 {
+          position: absolute;
+          width: 100%;
+          height: 4px;
+          background: #ccc;
+          top: 50%;
+          left: 0;
+          transform: translate(-50%, -50%);
+        }
+        &_line1 {/////////////*********已完成的结点的连接线颜色为蓝色**********/////////////
+          position: absolute;
+          width: 100%;
+          height: 6px;
+          background: #13A3DE;
+          top: 50%;
+          left: 0;
+          transform: translate(-50%, -50%);
+        }
+      }
+    }
+    
+  }
+  .ques-content{
+    .title{ 
+        display: inline-flex;
+        height: 38px;
+        line-height: 38px;
+        background: #6C767D ;
+        color: #fff;
+        border-radius: 2px;
+        font-size: 18px;
+        margin-left: 1em;
+        margin-bottom: 0.5em;
+    }
+    .sub-ques-content{
+      margin-left: 2em;
+      margin-top: 2em;
+      h1{
+        display:inline-block;
+      }
+    }
+}
+
+.history-comment{
+  background-color: #F8CECC;
+  margin-left: 3em;
+}

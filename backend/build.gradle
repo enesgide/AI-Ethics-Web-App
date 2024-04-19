@@ -1,0 +1,93 @@
+plugins {
+	id 'org.springframework.boot' version '2.3.4.RELEASE'
+	id 'io.spring.dependency-management' version '1.0.10.RELEASE'
+	id 'org.asciidoctor.convert' version '1.5.8'
+	id 'java'
+}
+
+group = 'com.sydney.au'
+version = '0.0.1-SNAPSHOT'
+sourceCompatibility = '1.8'
+
+configurations {
+	compileOnly {
+		extendsFrom annotationProcessor
+	}
+}
+
+allprojects {
+	repositories {
+		mavenCentral()
+		maven {
+			url "https://jaspersoft.jfrog.io/jaspersoft/third-party-ce-artifacts/"
+		}
+	}
+}
+
+ext {
+	set('snippetsDir', file("build/generated-snippets"))
+}
+
+dependencies {
+	implementation 'org.springframework.boot:spring-boot-starter-data-jpa'
+	implementation 'org.springframework.boot:spring-boot-starter-web'
+	implementation 'org.springframework.boot:spring-boot-starter-data-rest'
+	implementation 'org.springframework.boot:spring-boot-starter-mail'
+	implementation 'org.springframework.session:spring-session-core'
+	implementation 'org.springframework.boot:spring-boot-starter-security'
+	implementation 'org.springframework.security:spring-security-test'
+	implementation 'com.github.xiaoymin:knife4j-spring-boot-starter:3.0.3'
+	implementation 'io.jsonwebtoken:jjwt-api:0.11.5'
+	runtimeOnly 'io.jsonwebtoken:jjwt-impl:0.11.5'
+	runtimeOnly 'io.jsonwebtoken:jjwt-jackson:0.11.5' // or 'io.jsonwebtoken:jjwt-gson:JJWT_RELEASE_VERSION' for gson
+	runtimeOnly 'org.bouncycastle:bcprov-jdk18on:1.76' // or bcprov-jdk15to18 on JDK 7
+	compileOnly 'org.projectlombok:lombok'
+	implementation 'mysql:mysql-connector-java'
+	developmentOnly 'org.springframework.boot:spring-boot-devtools'
+	annotationProcessor 'org.springframework.boot:spring-boot-configuration-processor'
+	testImplementation('org.springframework.boot:spring-boot-starter-test') {
+		exclude group: 'org.junit.vintage', module: 'junit-vintage-engine'
+	}
+	testImplementation 'org.springframework.restdocs:spring-restdocs-mockmvc'
+
+	// added by myself
+//	compile group: 'com.fasterxml.jackson.core', name: 'jackson-databind', version: '2.10.2'
+//	compile group: 'io.jsonwebtoken', name: 'jjwt', version: '0.9.1'
+
+//	compile group: 'org.apache.logging.log4j', name: 'log4j-core', version: '2.13.1'
+	implementation 'org.apache.logging.log4j:log4j-api:2.20.0'
+	implementation 'org.apache.logging.log4j:log4j-core:2.20.0'
+	implementation group: 'org.springframework.boot', name: 'spring-boot-starter-thymeleaf', version: '2.3.5.RELEASE'
+	implementation group: 'com.alibaba', name: 'fastjson', version: '1.2.76'
+	// https://mvnrepository.com/artifact/org.python/jython-standalone
+	implementation group: 'org.python', name: 'jython-standalone', version: '2.7.2'
+	// https://mvnrepository.com/artifact/commons-fileupload/commons-fileupload
+	implementation group: 'commons-fileupload', name: 'commons-fileupload', version: '1.4'
+
+	// For Jasper reports
+	implementation 'net.sf.jasperreports:jasperreports:6.20.6'
+	implementation 'commons-logging:commons-logging:1.2'
+	implementation 'commons-digester:commons-digester:2.1'
+
+	// https://mvnrepository.com/artifact/com.itextpdf/itextpdf
+	implementation group: 'com.itextpdf', name: 'itextpdf', version: '5.5.13.3'
+}
+
+test {
+	outputs.dir snippetsDir
+	useJUnitPlatform()
+}
+
+asciidoctor {
+	inputs.dir snippetsDir
+	dependsOn test
+}
+
+//jar {
+//	baseName = 'ethicalivalidation'
+//	version = '0.0.1'
+//	manifest {
+//		attributes "Manifest-Version": 1.0,
+//				'Main-Class': 'com.sydney.au.ethicalaivalidation'
+//	}
+//}
